@@ -1,1 +1,1 @@
-# THCS
+# THCS term project
